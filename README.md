@@ -74,7 +74,7 @@ A RESTful API built with Node.js, Express, TypeScript, MongoDB, and Zod validati
   "dueDate": "2025-07-18T00:00:00.000Z"
 }
 ```
-`Business Logic:
+####Business Logic:
 
 `Verifies the book exists.`
 
