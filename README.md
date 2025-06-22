@@ -150,18 +150,18 @@ URL: GET /api/borrow
   "success": true,
   "message": "Borrowed books summary retrieved successfully"`
 `"data": [
- `{
+ {
 "book": {
-"title": "The Theory of Everything",`
-        "isbn": "9780553380163"`
-},`
+"title": "The Theory of Everything",
+        "isbn": "9780553380163"
+},
       "totalQuantity": 5`
-},`
-    `{
-"book": {`
+},
+    {
+`"book": {
         "title": "1984",
         "isbn": "9780451524935"
-      },`
+      },``
 "totalQuantity": 3`
     }`
 ]
