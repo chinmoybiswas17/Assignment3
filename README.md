@@ -18,8 +18,6 @@ A RESTful API built with Node.js, Express, TypeScript, MongoDB, and Zod validati
 
 6.Well-structured modular codebase
 
----
-
 ## Setup Instructions
 
 ### Technologies Used
