@@ -1,17 +1,17 @@
 # Library Management System API
 
-`A RESTful API built with Node.js, Express, TypeScript, MongoDB, and Zod validation for managing books and borrowing operations in a library.`
+A RESTful API built with Node.js, Express, TypeScript, MongoDB, and Zod validation for managing books and borrowing operations in a library.
 
 ---
 
 ## Features
 
-`CRUD operations for books  
+CRUD operations for books  
  Borrow books with validation on availability  
-  Borrowed books summary with aggregation  
+ Borrowed books summary with aggregation  
  Input validation using Zod  
-  Error handling middleware  
- Well-structured modular codebase `
+ Error handling middleware  
+ Well-structured modular codebase
 
 ---
 
