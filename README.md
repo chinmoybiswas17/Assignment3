@@ -7,10 +7,15 @@ A RESTful API built with Node.js, Express, TypeScript, MongoDB, and Zod validati
 ## Features
 
 1.CRUD operations for books
+
 2.Borrow books with validation on availability
+
 3.Borrowed books summary with aggregation
+
 4.Input validation using Zod
+
 5.Error handling middleware
+
 6.Well-structured modular codebase
 
 ---
