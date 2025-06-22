@@ -19,12 +19,12 @@ CRUD operations for books
 
 ### Technologies Used
 
-`Node.js
-  Express.js (v4)`
-TypeScript`
-  MongoDB & Mongoose`
-Zod (for validation)`
-  ts-node-dev (for development)`
+`Node.js`
+`Express.js (v4)`
+`TypeScript`
+`MongoDB & Mongoose`
+`Zod (for validation)`
+`ts-node-dev (for development)`
 
 ## API Endpoints
 
