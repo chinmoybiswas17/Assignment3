@@ -4,23 +4,18 @@ A RESTful API built with Node.js, Express, TypeScript, MongoDB, and Zod validati
 
 ---
 
-## Features
+## 🚀 Features
 
-1.CRUD operations for books
+- **Book Management**: Create, Read, Update, and Delete books
+- **Filtering & Sorting**: Filter books by genre, sort by creation date
+- **Borrowing System**: Borrow books with quantity tracking
+- **Aggregation Summary**: Get total borrowed quantity per book
+- **Schema Validation**: Strong validation using Zod and Mongoose
+- **Mongoose Static Methods & Middleware**: Business logic for availability
 
-2.Borrow books with validation on availability
+---
 
-3.Borrowed books summary with aggregation
-
-4.Input validation using Zod
-
-5.Error handling middleware
-
-6.Well-structured modular codebase
-
-## Setup Instructions
-
-### Technologies Used
+## 🔧 Technologies Used
 
 `Node.js`
 `Express.js (v4)`
@@ -28,6 +23,8 @@ A RESTful API built with Node.js, Express, TypeScript, MongoDB, and Zod validati
 `MongoDB & Mongoose`
 `Zod (for validation)`
 `ts-node-dev (for development)`
+
+---
 
 ## API Endpoints
 
